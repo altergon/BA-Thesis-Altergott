@@ -75,5 +75,6 @@ Survey-Data-19_12_25.csv contains the survey data.
 ```bash
 ├── README.md
 ├── Analysis.ipynb                                  -- Analysis pipeline; produces all results
-├── Survey-Data-19_12_25.csv                        -- Contains the data; is linked in the pipeline               
+├── Survey-Data-19_12_25.csv                        -- Contains the data; is linked in the pipeline
+├── Survey-Design.pdf                               -- Overview of the used survey/experiment design
 ```
